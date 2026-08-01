@@ -1,0 +1,13 @@
+﻿
+Hash                                                             Path                                                               
+----                                                             ----                                                               
+FE22807EE5CDC4A861F667004DBE00C10FFCB63134092C8874E1C677AD7A09C9 C:\Users\rmaso\ai-rep-audit\docs\document-1-1-methodological-spe...
+748CDB48B2D5D27517EB728D74CFEA83D132441311F6FEDC3891104D60D50C3E C:\Users\rmaso\ai-rep-audit\docs\methodology-pass1-gates0-5.md     
+95D3292CCF2992D49B3923412D794381C9996927A63B2066021EB15B63D70026 C:\Users\rmaso\ai-rep-audit\docs\phone-session-deliverables.md     
+82C4B051BFA1DB775A551AEF28F3F3ADF9CBB7922235EB7CAB50E28FED60370A C:\Users\rmaso\ai-rep-audit\captures\run01\api_capture.json        
+9F5A8C9CD9B9B97A11CB72C9F21734259F2108923B0715DE903493DCF02C1AB5 C:\Users\rmaso\ai-rep-audit\captures\run01\api_headers.txt         
+8F4A46229B0DAF2045DCF4E648FE769ADB4E42F816E9810D6D9657A271B33B7D C:\Users\rmaso\ai-rep-audit\captures\run01\extraction_manifest.json
+31978379D335F6331BE1D68E3494B7050FE212BAF40BA6918AE614A3E46C6D16 C:\Users\rmaso\ai-rep-audit\captures\run01\ui_capture.txt          
+140B0B956CBCF20B41122B1213C428DC14A4222B74634919BB10B2BA5F3FE3EB C:\Users\rmaso\ai-rep-audit\gate\verify_provenance.py              
+
+
