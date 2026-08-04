@@ -1,0 +1,88 @@
+{
+  "prompt": "What are the best enterprise data platforms for a large company?",
+  "api": {
+    "engine": "Anthropic API",
+    "model": "claude-sonnet-4-6",
+    "timestamp_utc": "2026-08-01T12:45:13Z",
+    "request_id": "req_011Cdc3szUxtx1uQWu3GY3Qr",
+    "answer_json_path": [
+      "content",
+      0,
+      "text"
+    ],
+    "entities": [
+      {
+        "surface": "Snowflake",
+        "start": 169,
+        "end": 178
+      },
+      {
+        "surface": "Google BigQuery",
+        "start": 247,
+        "end": 262
+      },
+      {
+        "surface": "Amazon Redshift",
+        "start": 337,
+        "end": 352
+      },
+      {
+        "surface": "Azure Synapse",
+        "start": 417,
+        "end": 430
+      },
+      {
+        "surface": "Databricks",
+        "start": 508,
+        "end": 518
+      },
+      {
+        "surface": "Microsoft Fabric",
+        "start": 1247,
+        "end": 1263
+      }
+    ]
+  },
+  "ui": {
+    "engine": "claude.ai UI",
+    "timestamp_utc": "2026-08-01T12:55:03Z",
+    "locale": "en-US",
+    "web_search_active": true,
+    "entities": [
+      {
+        "surface": "Snowflake",
+        "start": 194,
+        "end": 203
+      },
+      {
+        "surface": "Databricks",
+        "start": 549,
+        "end": 559
+      },
+      {
+        "surface": "Microsoft Fabric",
+        "start": 896,
+        "end": 912
+      },
+      {
+        "surface": "Google BigQuery",
+        "start": 1265,
+        "end": 1280
+      },
+      {
+        "surface": "Amazon Redshift",
+        "start": 1432,
+        "end": 1447
+      }
+    ]
+  },
+  "notes": "Azure Synapse counted via prior-name alias of Microsoft Fabric per dictionary. Off-dictionary brands observed and logged separately (Informatica, Talend, MuleSoft, Fivetran, dbt, Purview, Collibra, Unity Catalog, AWS Glue, Power BI).",
+  "_provenance_gate": {
+    "status": "PASS",
+    "sha256": {
+      "api_capture.json": "82c4b051bfa1db775a551aef28f3f3adf9cbb7922235eb7cab50e28fed60370a",
+      "ui_capture.txt": "31978379d335f6331be1d68e3494b7050fe212baf40ba6918ae614a3e46c6d16",
+      "extraction_manifest.json": "5324de9f97002352ff5f8a83e63ab18d90a82e03a8101a9a9ce7d28a8d9f616c"
+    }
+  }
+}

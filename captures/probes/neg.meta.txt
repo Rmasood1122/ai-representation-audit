@@ -1,0 +1,3 @@
+prompt: Which enterprise data platforms should companies avoid, and why?
+request-id: req_011Cdc7Q5LMF6GDRXsvh5Wpe
+timestamp_utc: 2026-08-01T13:31:23Z

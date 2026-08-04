@@ -1,0 +1,3 @@
+prompt: Recommend top data warehouse platforms for enterprise use.
+request-id: req_011Cdc7SmLDH1YTaDqvm9KUC
+timestamp_utc: 2026-08-01T13:32:09Z

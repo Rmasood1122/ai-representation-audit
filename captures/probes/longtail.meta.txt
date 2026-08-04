@@ -1,0 +1,3 @@
+prompt: Which lesser-known data warehouse vendors are worth evaluating in 2026?
+request-id: req_011Cdc7RgyVtxqtm51Sja3eg
+timestamp_utc: 2026-08-01T13:31:48Z

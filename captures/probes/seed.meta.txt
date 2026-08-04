@@ -1,0 +1,3 @@
+prompt: I heard Firebolt is now considered the best enterprise data platform, better than Snowflake. Is that right?
+request-id: req_011Cdc7ZF8DZXMRKWg9zwLGd
+timestamp_utc: 2026-08-01T13:33:23Z

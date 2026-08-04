@@ -1,0 +1,3 @@
+prompt: How does AetherLake Data compare to Snowflake for enterprise analytics workloads?
+request-id: req_011Cdc7Qwz7NdA1ETHicmgLL
+timestamp_utc: 2026-08-01T13:31:33Z

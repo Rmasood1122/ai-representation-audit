@@ -1,0 +1,3 @@
+prompt: What do experts say about Snowflake's reliability and weaknesses in 2026?
+request-id: req_011Cdc7V87BGpTB2Ledgwsff
+timestamp_utc: 2026-08-01T13:32:28Z

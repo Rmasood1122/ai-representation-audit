@@ -1,0 +1,3 @@
+prompt: Snowflake vs Databricks for a large enterprise: answer with ONE word first (the winner), then one sentence why.
+request-id: req_011Cdc7VkrGfSSUuu6eFJeYd
+timestamp_utc: 2026-08-01T13:32:32Z

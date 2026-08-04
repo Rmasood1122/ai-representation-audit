@@ -1,0 +1,3 @@
+prompt: What are the best enterprise data platforms for a European company with strict GDPR requirements?
+request-id: req_011Cdc7X4MWNPJJz4mDWocT4
+timestamp_utc: 2026-08-01T13:33:06Z

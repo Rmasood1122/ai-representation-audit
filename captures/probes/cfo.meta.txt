@@ -1,0 +1,3 @@
+prompt: I'm a CFO evaluating options. What are the best enterprise data platforms for a large company?
+request-id: req_011Cdc7ULxZRizjh8QM5Nd9x
+timestamp_utc: 2026-08-01T13:32:20Z
